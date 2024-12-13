@@ -1,0 +1,16 @@
+{
+  "lista": [
+    {
+      "name": "riego1",
+      "state": false,
+      "id": 1734078801283
+    },
+    {
+      "name": "riego2",
+      "state": true,
+      "id": 1734078801441
+    }
+
+    
+  ]
+}
